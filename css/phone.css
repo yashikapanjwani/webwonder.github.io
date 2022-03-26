@@ -1,0 +1,12 @@
+/* .addon{
+    flex-direction: column;
+    margin: 15px 1px;
+    align-content: center;
+}
+.loungewearclass{
+    align-content: center;
+}
+.addon::before{
+    height: 350px;
+    width: 100vw;
+} */
